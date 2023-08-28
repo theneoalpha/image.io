@@ -1,7 +1,10 @@
     
 
-  Step 1 :-Vite - Fastest way to generate frontend tool - through which we can quickly generate react(create-react-app) within a second
+  Step 1 :-Vite - Fastest way to generate frontend tool - through which we can quickly generate react(create-react-app) within a second.
+          
+          
           step 1.1 :
+
                # npm create vite@latest
 
           step 1.2 :      
@@ -24,5 +27,13 @@
   Step 4 :- Adding react-router-dom for page switching from one page to another page and creating two pages CreatePosts and Home     
 
             step 4.1 
-            
+
               # npm react-router-dom          
+
+
+  Step 5 : Undo 4th step and adding react-router-dom for page switching and adding some asstes(images,logo) and solving step 4 errors { previous issue- pages export default not working, FIX- Changing the CreatePosts and Home.jsx file code} 
+
+
+            step 5.1 
+
+            # npm react-router-dom         
