@@ -36,4 +36,6 @@
 
             step 5.1 
 
-            # npm react-router-dom         
+            # npm react-router-dom      
+
+   Step 6 : exporting CreatePost and Home.jsx through index.js file (taaki dono jsx file ek file index.js se access ho jaye), also adding routes in App.jsx (Page switching- from home and create-post page)             
